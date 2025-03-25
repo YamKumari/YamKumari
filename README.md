@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 This is my first Git Repository.
 <br>
-Author- Yam Kumari Shrestha
+Author- (Yam Kumari Shrestha)
 
