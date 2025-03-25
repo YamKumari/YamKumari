@@ -1,4 +1,4 @@
-## Yam Kumari Shrestha 👋
+## Welcome 👋
 
 <!--
 **YamKumari/YamKumari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
