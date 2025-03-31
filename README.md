@@ -1,6 +1,9 @@
 <h1>Hi 👋, I'm Yam Kumari Shrestha</h1>
+
 <h2>About me</h2>
 <p>A passionate IT student and aspiring developer from Nepal</p>
+
+<h2>Interest and Hobbies</h2>
 - 🌱 I’m currently learning **Java, Python, JavaScript, HTML, CSS, and MySql**
 
 - 👯 I’m looking to collaborate on **Java, Python, and Web Development Projects**
