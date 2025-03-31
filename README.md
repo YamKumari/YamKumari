@@ -1,10 +1,6 @@
 <h1>Hi 👋, I'm Yam Kumari Shrestha</h1>
-<h3>A passionate IT student and aspiring developer from Nepal</h3>
-
 <h2>About me</h2>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
+<p>A passionate IT student and aspiring developer from Nepal</p>
 - 🌱 I’m currently learning **Java, Python, JavaScript, HTML, CSS, and MySql**
 
 - 👯 I’m looking to collaborate on **Java, Python, and Web Development Projects**
