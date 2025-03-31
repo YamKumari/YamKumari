@@ -1,7 +1,7 @@
 <h1>Hi 👋, I'm Yam Kumari Shrestha</h1>
 
 <h2>About me</h2>
-<p>A passionate IT student and aspiring developer from Nepal</p>
+<p>I am a passionate IT student driven by curiosity and innovation. I love exploring new technologies, solving problems, and continuously expanding my skills to build impactful solutions.</p>
 
 <h2 align="left">Interest and Hobbies</h2>
 <ul>
