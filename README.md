@@ -14,8 +14,8 @@
 
 <h2 align="left">Skills</h2>
 <ul>
-  <li>Programming Languages: Java, Python, JavaScript </li> 
-<li>Web Development**: HTML, CSS, JavaScript</li>  
+<li>Programming Languages: Java, Python, JavaScript </li> 
+<li>Web Development: HTML, CSS, JavaScript</li>  
 <li>Databases: MySQL</li>  
 <li>Tools & Technologies: Git, Visual Studio Code, IntelliJ IDEA, Balsamiq</li>
 <li>Other Skills: Problem-solving, Algorithms, UI/UX Design, Database Management  </li>
