@@ -3,16 +3,19 @@
 <h2>About me</h2>
 <p>A passionate IT student and aspiring developer from Nepal</p>
 
-<h2>Interest and Hobbies</h2>
-- 🌱 I’m currently learning **Java, Python, JavaScript, HTML, CSS, and MySql**
+<h2 align="left">Interest and Hobbies</h2>
+<ul>
+  <li>🌱 I’m currently learning **Java, Python, JavaScript, HTML, CSS, and MySql**</li>
+  <li>👯 I’m looking to collaborate on **Java, Python, and Web Development Projects**</li>
+  <li> 🤝 I’m looking for help with **improving my coding skills, understanding algorithms, and building real-world projects**</li>
+  <li>💬 Ask me about **what I’m learning in BIT and my coding journey**</li>
+</ul>
 
-- 👯 I’m looking to collaborate on **Java, Python, and Web Development Projects**
+<h2 align="left">Skills</h2>
+<p align="left">asdasdasdkjbkjahsdbias</p>
 
-- 🤝 I’m looking for help with **improving my coding skills, understanding algorithms, and building real-world projects**
-
-- 💬 Ask me about **what I’m learning in BIT and my coding journey**
-
-- 📫 How to reach me **shresthayamkumari48@gmail.com**
+<h2 align="left">Why I want to join Developers' community</h2>
+<p align="left">ajsdikahsdnashdkashd</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
