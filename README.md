@@ -1,40 +1,111 @@
-<h1>Hi 👋, I'm Yam Kumari Shrestha</h1>
+## Hi there! 👋 I'm Yam Kumari Shrestha
 
-<h2>About me</h2>
-<p>I am a passionate IT student driven by curiosity and innovation. I love exploring new technologies, solving problems, and continuously expanding my skills to build impactful solutions.</p>
+<img src="https://your-image-link.com/banner.png" alt="Yam Kumari Shrestha" width="100%" />
 
-<h2 align="left">Interest and Hobbies</h2>
-<ul>
-  <li>🌱 Currently exploring Java, Python, JavaScript, HTML, CSS, and MySQL</li>  
-<li>👨‍💻 Interested in collaborating on coding projects and learning from others</li>  
-<li>🚀 Passionate about problem-solving, algorithms, and real-world applications</li>  
-<li>💡 Always eager to improve my coding skills and expand my technical knowledge</li>  
-<li>💬 Ask me about my IT journey, coding experience, or anything tech-related!</li>  
-</ul>
+### 🚀 About Me
+I am a passionate IT student driven by curiosity and innovation. I enjoy solving problems, exploring new technologies, and expanding my skills to build impactful solutions.
 
-<h2 align="left">Skills</h2>
-<ul>
-<li>Programming Languages: Java, Python, JavaScript </li> 
-<li>Web Development: HTML, CSS, JavaScript</li>  
-<li>Databases: MySQL</li>  
-<li>Tools & Technologies: Git, Visual Studio Code, IntelliJ IDEA, Balsamiq</li>
-<li>Other Skills: Problem-solving, Algorithms, UI/UX Design, Database Management  </li>
-</ul>
+### 🌱 Interest and Hobbies
+- 🔥 Currently learning **Java, Python, JavaScript, HTML, CSS, and MySQL**
+- 💻 Excited to collaborate on coding projects and learn from others
+- 🚀 Passionate about **problem-solving, algorithms, and real-world applications**
+- 📚 Constantly improving my skills and expanding my technical knowledge
+- 💡 Always eager to take on new challenges and innovate!
 
-<h2 align="left">Why I want to join Developers' community</h2>
-<p align="left"> </p>
+---
 
-<h2 align="left">Contact me</h2>
-<p align="left">  </p>
+### 🛠 Skills & Technologies
+#### 🚀 Programming & Scripting
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-<h2 align="left">Pronouns</h2>
-<p align="left">   </p>
+#### 🌐 Web Development
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+#### 🗄️ Databases
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yamkumari&show_icons=true&locale=en&layout=compact" alt="yamkumari" /></p>
+#### ⚙️ Tools & IDEs
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Balsamiq](https://img.shields.io/badge/Balsamiq-FF6F00?style=for-the-badge)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yamkumari&show_icons=true&locale=en" alt="yamkumari" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yamkumari&" alt="yamkumari" /></p>
+### 🏆 Projects & Code Samples
+#### 🔹 Java Project: Simple Calculator
+```java
+public class Calculator {
+    public static int add(int a, int b) {
+        return a + b;
+    }
+    public static void main(String[] args) {
+        System.out.println("Sum: " + add(5, 10));
+    }
+}
+```
+
+#### 🔹 Python Project: Basic To-Do List
+```python
+tasks = []
+def add_task(task):
+    tasks.append(task)
+    print(f'Task "{task}" added!')
+add_task('Complete GitHub profile')
+```
+
+#### 🔹 JavaScript: Dynamic Greeting
+```javascript
+function greet(name) {
+    return `Hello, ${name}! Welcome to my GitHub.`;
+}
+console.log(greet('Yam Kumari'));
+```
+
+---
+
+### 📜 Why I Want to Join the Developer Community
+I enjoy working with like-minded individuals to bring creative ideas to life. Being part of a collaborative community enhances my learning and allows me to contribute to meaningful and innovative projects.
+
+---
+
+### 📈 GitHub Stats & Contributions
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yamkumari&show_icons=true&theme=radical" alt="Yam Kumari's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yamkumari&theme=radical" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yamkumari&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+### 🏆 GitHub Profile Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=yamkumari&theme=radical&no-bg=true&no-frame=true" alt="GitHub Trophies" />
+</p>
+
+---
+
+### 📊 Contribution Graph
+![Snake animation](https://github.com/YamKumari/YamKumari/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+### 📫 Contact Me
+📧 **Email:** shresthayamkumari48@gmail.com  
+📞 **Phone:** +977-9828493617  
+📷 **Instagram:** [sa.bita2240](https://www.instagram.com/sa.bita2240)  
+
+---
+
+### 🤝 Let's Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/YOUR-LINKEDIN](https://www.linkedin.com/in/yam-kumari-shrestha-179932354/))  
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge)](https://your-portfolio.com)
