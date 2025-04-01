@@ -1,7 +1,5 @@
 ## Hi there! 👋 I'm Yam Kumari Shrestha
 
-<img src="https://your-image-link.com/banner.png" alt="Yam Kumari Shrestha" width="100%" />
-
 ### 🚀 About Me
 I am a passionate IT student driven by curiosity and innovation. I enjoy solving problems, exploring new technologies, and expanding my skills to build impactful solutions.
 
