@@ -92,11 +92,6 @@ I enjoy working with like-minded individuals to bring creative ideas to life. Be
 
 ---
 
-### 📊 Contribution Graph
-![Snake animation](https://github.com/YamKumari/YamKumari/blob/output/github-contribution-grid-snake.svg)
-
----
-
 ### 📫 Contact Me
 📧 **Email:** shresthayamkumari48@gmail.com  
 📞 **Phone:** +977-9828493617  
