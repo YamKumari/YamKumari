@@ -107,5 +107,4 @@ I enjoy working with like-minded individuals to bring creative ideas to life. Be
 ---
 
 ### 🤝 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/YOUR-LINKEDIN](https://www.linkedin.com/in/yam-kumari-shrestha-179932354/))  
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge)](https://your-portfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yam-kumari-shrestha-179932354/)
